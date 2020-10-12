@@ -1,28 +1,28 @@
 {
   "files": {
-    "ContactsQrs.js": "/static/js/ContactsQrs.9f9bfca5.chunk.js",
-    "ContactsQrs.js.map": "/static/js/ContactsQrs.9f9bfca5.chunk.js.map",
-    "TodosSfr.js": "/static/js/TodosSfr.bdc5b288.chunk.js",
-    "TodosSfr.js.map": "/static/js/TodosSfr.bdc5b288.chunk.js.map",
-    "main.css": "/static/css/main.88824ec2.chunk.css",
-    "main.js": "/static/js/main.ba041371.chunk.js",
-    "main.js.map": "/static/js/main.ba041371.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.18efa36c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.18efa36c.js.map",
-    "static/js/4.084d08fd.chunk.js": "/static/js/4.084d08fd.chunk.js",
-    "static/js/4.084d08fd.chunk.js.map": "/static/js/4.084d08fd.chunk.js.map",
-    "static/js/5.2161e84b.chunk.js": "/static/js/5.2161e84b.chunk.js",
-    "static/js/5.2161e84b.chunk.js.map": "/static/js/5.2161e84b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b31658d93c2a8dc5813646e460614a20.js": "/precache-manifest.b31658d93c2a8dc5813646e460614a20.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.88824ec2.chunk.css.map": "/static/css/main.88824ec2.chunk.css.map",
-    "static/js/4.084d08fd.chunk.js.LICENSE.txt": "/static/js/4.084d08fd.chunk.js.LICENSE.txt"
+    "ContactsQrs.js": "/redux-libs-demo-app/static/js/ContactsQrs.f9cbb46f.chunk.js",
+    "ContactsQrs.js.map": "/redux-libs-demo-app/static/js/ContactsQrs.f9cbb46f.chunk.js.map",
+    "TodosSfr.js": "/redux-libs-demo-app/static/js/TodosSfr.bab14639.chunk.js",
+    "TodosSfr.js.map": "/redux-libs-demo-app/static/js/TodosSfr.bab14639.chunk.js.map",
+    "main.css": "/redux-libs-demo-app/static/css/main.88824ec2.chunk.css",
+    "main.js": "/redux-libs-demo-app/static/js/main.96d7a8f1.chunk.js",
+    "main.js.map": "/redux-libs-demo-app/static/js/main.96d7a8f1.chunk.js.map",
+    "runtime-main.js": "/redux-libs-demo-app/static/js/runtime-main.01d779ac.js",
+    "runtime-main.js.map": "/redux-libs-demo-app/static/js/runtime-main.01d779ac.js.map",
+    "static/js/4.3649e74c.chunk.js": "/redux-libs-demo-app/static/js/4.3649e74c.chunk.js",
+    "static/js/4.3649e74c.chunk.js.map": "/redux-libs-demo-app/static/js/4.3649e74c.chunk.js.map",
+    "static/js/5.9ae830b1.chunk.js": "/redux-libs-demo-app/static/js/5.9ae830b1.chunk.js",
+    "static/js/5.9ae830b1.chunk.js.map": "/redux-libs-demo-app/static/js/5.9ae830b1.chunk.js.map",
+    "index.html": "/redux-libs-demo-app/index.html",
+    "precache-manifest.401405c0818773057e52902eb0f20781.js": "/redux-libs-demo-app/precache-manifest.401405c0818773057e52902eb0f20781.js",
+    "service-worker.js": "/redux-libs-demo-app/service-worker.js",
+    "static/css/main.88824ec2.chunk.css.map": "/redux-libs-demo-app/static/css/main.88824ec2.chunk.css.map",
+    "static/js/4.3649e74c.chunk.js.LICENSE.txt": "/redux-libs-demo-app/static/js/4.3649e74c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.18efa36c.js",
-    "static/js/4.084d08fd.chunk.js",
+    "static/js/runtime-main.01d779ac.js",
+    "static/js/4.3649e74c.chunk.js",
     "static/css/main.88824ec2.chunk.css",
-    "static/js/main.ba041371.chunk.js"
+    "static/js/main.96d7a8f1.chunk.js"
   ]
 }
