@@ -1,0 +1,28 @@
+{
+  "files": {
+    "ContactsQrs.js": "/static/js/ContactsQrs.9f9bfca5.chunk.js",
+    "ContactsQrs.js.map": "/static/js/ContactsQrs.9f9bfca5.chunk.js.map",
+    "TodosSfr.js": "/static/js/TodosSfr.bdc5b288.chunk.js",
+    "TodosSfr.js.map": "/static/js/TodosSfr.bdc5b288.chunk.js.map",
+    "main.css": "/static/css/main.88824ec2.chunk.css",
+    "main.js": "/static/js/main.ba041371.chunk.js",
+    "main.js.map": "/static/js/main.ba041371.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.18efa36c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.18efa36c.js.map",
+    "static/js/4.084d08fd.chunk.js": "/static/js/4.084d08fd.chunk.js",
+    "static/js/4.084d08fd.chunk.js.map": "/static/js/4.084d08fd.chunk.js.map",
+    "static/js/5.2161e84b.chunk.js": "/static/js/5.2161e84b.chunk.js",
+    "static/js/5.2161e84b.chunk.js.map": "/static/js/5.2161e84b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b31658d93c2a8dc5813646e460614a20.js": "/precache-manifest.b31658d93c2a8dc5813646e460614a20.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.88824ec2.chunk.css.map": "/static/css/main.88824ec2.chunk.css.map",
+    "static/js/4.084d08fd.chunk.js.LICENSE.txt": "/static/js/4.084d08fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18efa36c.js",
+    "static/js/4.084d08fd.chunk.js",
+    "static/css/main.88824ec2.chunk.css",
+    "static/js/main.ba041371.chunk.js"
+  ]
+}
